@@ -1,0 +1,6 @@
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.EntityLayer\bin\Debug\Proj.EntityLayer.dll
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.EntityLayer\bin\Debug\Proj.EntityLayer.pdb
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.EntityLayer\obj\Debug\Proj.EntityLayer.csproj.AssemblyReference.cache
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.EntityLayer\obj\Debug\Proj.EntityLayer.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.EntityLayer\obj\Debug\Proj.EntityLayer.dll
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.EntityLayer\obj\Debug\Proj.EntityLayer.pdb

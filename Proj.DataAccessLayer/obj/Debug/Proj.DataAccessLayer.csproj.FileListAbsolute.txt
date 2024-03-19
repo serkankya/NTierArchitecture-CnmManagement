@@ -1,0 +1,17 @@
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\Proj.DataAccessLayer.dll.config
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\Proj.DataAccessLayer.dll
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\Proj.DataAccessLayer.pdb
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\Proj.EntityLayer.dll
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\Proj.MappingLayer.dll
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\Proj.EntityLayer.pdb
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\Proj.MappingLayer.pdb
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\Proj.MappingLayer.dll.config
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\obj\Debug\Proj.DataAccessLayer.csproj.AssemblyReference.cache
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\obj\Debug\Proj.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\obj\Debug\Proj.DataAccessLayer.csproj.CopyComplete
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\obj\Debug\Proj.DataAccessLayer.dll
+D:\VisualStudio projects\NTier_CinemaManagement\Proj.DataAccessLayer\obj\Debug\Proj.DataAccessLayer.pdb
